@@ -20,7 +20,7 @@
             <br>BootStrap
         </td> 
          <td align="center" width="100">
-            <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="icon" width="47" height="47" />
+            <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="icon" width="47" height="47" style="border-radius:10"/>
             <br>React
         </td>
         <td align="center" width="100">
