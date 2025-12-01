@@ -20,7 +20,7 @@
             <br>BootStrap
         </td> 
          <td align="center" width="100">
-            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZobXQ4bWV3dmJtNWNtOXF4cW1zcHl1aHFlc3dhMmNyZTVrNTFzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EJNm9rPe4J8FSIfZqm/giphy.gif" alt="icon" width="47" height="47" />
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Freact-1&psig=AOvVaw38fKJWCUgPkYeW33aF-YrX&ust=1764695757520000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiXqJHynJEDFQAAAAAdAAAAABAE" alt="icon" width="47" height="47" />
             <br>React
         </td>
         <td align="center" width="100">
