@@ -1,6 +1,6 @@
 ## Isabella Farias 
 
-<div style="display: flex; flex-direction: column;
+<div style="display: flex; flex-direction: column;>
 # Frontend skills
     - React.js
     - HTML5, CSS3, Bootstrap, Styled components
