@@ -10,7 +10,8 @@
 # 💻 My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
-        <td align="center"  width="100">
+        <tr>
+            <td align="center"  width="100">
             <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="48" height="48" alt="HTML5" />
             <br>HTML5
         </td>
@@ -50,6 +51,13 @@
             <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="icon" width="47" height="47" />
             <br>Postman
         </td>
+        </tr>
+        <tr>
+            <td align="center" width="100">
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" alt="icon" width="47" height="47" />
+            <br>Redux
+        </td>
+        </tr>
     </table>
 </div>
 
