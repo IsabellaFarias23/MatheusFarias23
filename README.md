@@ -1,6 +1,13 @@
 ## Isabella Farias 
 
-# 💻 Frontend skills
+## Frontend skills
+- React.js
+- HTML5, CSS3, Bootstrap, Styled components
+- JavaScript, TypeScript
+- Ant Design / Material Design
+- NPM
+
+# 💻 My tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <td align="center"  width="100">
