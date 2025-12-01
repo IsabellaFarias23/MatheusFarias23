@@ -1,10 +1,11 @@
 ## Isabella Farias 
 
-## Frontend skills
+# Frontend skills
 - React.js
 - HTML5, CSS3, Bootstrap, Styled components
 - JavaScript, TypeScript
-- Ant Design / Material Design
+- Axios, React Router, React Redux, React Testing Library, Jest, Babel
+- Ant Design / Material Design, Eslint
 - NPM
 
 # 💻 My tools and technologies
