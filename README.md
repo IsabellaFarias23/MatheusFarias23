@@ -47,7 +47,7 @@
             <br>GitHub
         </td>
         <td align="center" width="100">
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="icon" width="56" height="56" />
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="icon" width="47" height="47" />
             <br>Postman
         </td>
     </table>
