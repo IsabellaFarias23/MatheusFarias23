@@ -31,7 +31,7 @@
             <br>React
         </td>
         <td align="center" width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="icon" width="47" height="47" style="border-radius: 10px;"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="icon" width="47" height="47" style="border-radius: 30px;"/>
             <br>TypeScript
         </td>
         <td align="center" width="100">
